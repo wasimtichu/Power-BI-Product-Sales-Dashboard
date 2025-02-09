@@ -1,6 +1,5 @@
-https://app.powerbi.com/groups/me/reports/13b7c272-5244-4746-97d6-4e14c7d976cb/484aeba0e30c9033cbcc?ctid=c2570192-3cbf-4fa4-b672-64891b19b7cf&experience=power-bi
-
-AW Product Sales Dashboard
+https://app.powerbi.com/groups/me/reports/13b7c272-5244-4746-97d6-4e14c7d976cb/484aeba0e30c9033cbcc?ctid=c2570192-3cbf-4fa4-b672-64891b19b7cf&experience=power-bi 
+# Product Sales Dashboard <br>
 I developed an interactive Power BI dashboard to analyze product sales trends, customer behavior, and key performance metrics. The dashboard provides insights into total sales, order quantities, profitability, and customer demographics to enhance business decision-making.
 
 Key Analyses Conducted:
